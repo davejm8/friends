@@ -4,4 +4,5 @@ puts arrays [-1]
 puts arrays [0]
 
 places = ["boston", "paris", "new york", "portland", "denver"]
-place.pop
+places.pop
+puts places [-1]
